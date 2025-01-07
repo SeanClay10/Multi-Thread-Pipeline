@@ -1,6 +1,5 @@
 Sean Clayton
-Operating Systems
-Multi-threaded Producer Consumer Pipeline
+Multi-threaded Consumer Produce Pipeline
 
 To compile:
 "gcc main.c buffer.c handlers.c utils.c -o line_processor -pthread"
